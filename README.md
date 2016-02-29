@@ -12,4 +12,4 @@ Screenshots:
   
   
   ![Alt text] (https://github.com/HiImGems/messenger/blob/master/screenshot/layout-2016-02-29-114706.png)
-  !
+  ![Alt text] (https://github.com/HiImGems/messenger/blob/master/screenshot/layout-2016-02-29-114734.png)
