@@ -5,5 +5,11 @@ these two parts of the code are necessary to finish the application, but they mu
 everything is separated from the code down to how the java file is managed to keep the two simple aspects working in conjunction
 
 Screenshots:
+  
+  
+  
+  
+  
+  
   ![Alt text] (https://github.com/HiImGems/messenger/blob/master/screenshot/layout-2016-02-29-114706.png)
   !
