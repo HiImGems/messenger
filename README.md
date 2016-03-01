@@ -4,11 +4,11 @@ Synopsis: The app is a basic messenger that is similar to the format found in so
 the application is split up into two parts of the code receive and send
 these two parts of the code are necessary to finish the application, but they must stay separated
 everything is separated from the code down to how the java file is managed to keep the two simple aspects working in conjunction
-<br>Screenshots:
+<br>Screenshots:<br>
   
   
   
-  
+  :syringe:
   
   
   <br>![Alt text] (https://github.com/HiImGems/messenger/blob/master/screenshot/layout-2016-02-29-114706.png)
