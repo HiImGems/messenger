@@ -1,4 +1,5 @@
 # messenger
+/play secret
 Synopsis: The app is a basic messenger that is similar to the format found in social media and a basic application found on your phone
 the application is split up into two parts of the code receive and send
 these two parts of the code are necessary to finish the application, but they must stay separated
