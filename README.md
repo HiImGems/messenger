@@ -10,7 +10,7 @@ everything is separated from the code down to how the java file is managed to ke
   
 
   
-  Messenger: Send Message Screen
+   Send Message Screen
   <br>![Alt text] (https://github.com/HiImGems/messenger/blob/master/screenshot/layout-2016-02-29-114706.png)
   
   Receive Message Screen:
